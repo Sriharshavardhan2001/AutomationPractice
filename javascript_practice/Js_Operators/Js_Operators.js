@@ -10,7 +10,10 @@
     8. Comma Operator
     9. Unary Operators
     10. Relational Operators
-*/  
+*/
+const { jsx } = require("react/jsx-runtime")
+
+  
 
 // 1. Arithmetic Operators
 
@@ -173,7 +176,7 @@ console.log(++Q) // pre increment // 21
 */
 
 // Decrement try by your self.      
-    
+ /*   
  var s = 30
 
  console.log (s--)
@@ -184,3 +187,7 @@ console.log(++Q) // pre increment // 21
 
  console.log(--s)
  console.log(s)
+
+*/
+
+
